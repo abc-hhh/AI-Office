@@ -1,4 +1,4 @@
-# LocalAI-Office-Hub (企业级私有化 AI 办公自动化平台)
+# LocalAI-Office-Hub 
 
 基于 Ollama (Qwen2.5) 与 Streamlit 构建的纯本地、零外发智能办公中台。致力于解决企业场景下大模型使用的数据隐私合规痛点，并提供自动化的 ETL 与文本结构化解析能力。
 
